@@ -7,3 +7,7 @@ Github pages
 ```sh
   docker-compose up
 ```
+
+Go to http://localhost:8080
+
+_Changes in \_config.yml are not hot reload you should stop and start container_
