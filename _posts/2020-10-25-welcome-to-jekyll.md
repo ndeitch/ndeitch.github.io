@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Welcome to Jekyll!
+title: Welcome to Jekyll
 date: 2020-10-25 20:19:56 +0000
 categories: hello
 author: Natan Deitch
