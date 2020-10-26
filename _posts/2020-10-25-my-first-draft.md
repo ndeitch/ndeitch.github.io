@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Welcome to Draft
-git_file: 2020-10-25-my-first-draft.md
+filename: 2020-10-25-my-first-draft.md
 date: 2020-10-25 20:19:56 +0000
 categories: hello
 author: Natan Deitch
