@@ -12,6 +12,7 @@ _Alterações no \_config.yml não são recarregadas, você tem que parar e inic
 
 ### Rascunho
 
-Se vocês estiver com um post em progresso, você pode colocar ele na pasta drafts.
+Se vocês estiver com um post em progresso, você pode colocar ele na pasta `drafts`.
+
 Eles irão aparecer rodando localmente, mas em produção não. Ao finalizar pode mover
 para a pasta `_posts`
